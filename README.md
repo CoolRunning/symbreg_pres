@@ -1,6 +1,6 @@
 ## Presentation: Symbolic Regression on Network Properties
 
-This is the code repository of the presentation. To see the actual presentation live visit [https://coolrunning.github.io/gtocx_pres](https://coolrunning.github.io/gtocx_pres/#/).
+This is the code repository of the presentation. To see the actual presentation live visit [https://coolrunning.github.io/symbreg_pres](https://coolrunning.github.io/symbreg_pres).
 
 ## About
 
